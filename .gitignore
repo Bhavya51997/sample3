@@ -67,6 +67,8 @@ typings/
 
 # Yarn Integrity file
 .yarn-integrity
+.component.ts
+.angularcli.json
 
 # dotenv environment variables file
 .env
